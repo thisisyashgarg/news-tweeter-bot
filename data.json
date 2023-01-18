@@ -1,0 +1,655 @@
+{
+    "_declaration": {
+        "_attributes": {
+            "version": "1.0",
+            "encoding": "UTF-8"
+        }
+    },
+    "rss": {
+        "_attributes": {
+            "version": "2.0",
+            "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+            "xmlns:snf": "http://www.smartnews.be/snf",
+            "xmlns:atom": "http://www.w3.org/2005/Atom",
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+        },
+        "channel": {
+            "title": {
+                "_text": "Blockchain News - Bitcoin"
+            },
+            "atom:link": {
+                "_attributes": {
+                    "href": "https://blockchain.news/rss",
+                    "rel": "self",
+                    "type": "application/rss+xml"
+                }
+            },
+            "description": {
+                "_text": "Blockchain News brings you the most up-to-date coverage on blockchain, cryptocurrency, and fintech."
+            },
+            "link": {
+                "_text": "https://Blockchain.News/rss?key=0HM0B8QFN3GEO"
+            },
+            "category": {
+                "_attributes": {
+                    "domain": "https://Blockchain.News/"
+                },
+                "_text": " Blockchain/Bitcoin/Ethereum/Crypto/Blockchain News/Technology/Financial Freedom "
+            },
+            "copyright": {
+                "_text": "Copyright 2023 Blockchain.News ."
+            },
+            "language": {
+                "_text": "en-US"
+            },
+            "managingEditor": {
+                "_text": "content@blockchain.news (Blockchain.News Content)"
+            },
+            "webMaster": {
+                "_text": "info@blockchain.news (Blockchain.News Info)"
+            },
+            "snf:darkModeLogo": {
+                "url": {
+                    "_text": "https://image.blockchain.news/logo/logo_290x50_dark.png"
+                }
+            },
+            "snf:logo": {
+                "url": {
+                    "_text": "https://image.blockchain.news/logo/logo_290x50.png"
+                }
+            },
+            "image": {
+                "url": {
+                    "_text": "https://image.blockchain.news/logo/favicon.png"
+                },
+                "title": {
+                    "_text": "Blockchain.News"
+                },
+                "link": {
+                    "_text": "https://Blockchain.News/"
+                },
+                "description": {
+                    "_text": "We Blockchain News brings you the most up to date coverage on blockchain, bitcoin, cryptocurrency and financial technology. In addition, we provide cutting edge research on New Money theory and educate the public with in-depth crypto market analysis."
+                },
+                "width": {
+                    "_text": "16"
+                },
+                "height": {
+                    "_text": "16"
+                }
+            },
+            "item": [
+                {
+                    "title": {
+                        "_text": "Bitcoin Gains Momentum Based on Positive CPI Numbers"
+                    },
+                    "content:encoded": {},
+                    "description": {
+                        "_cdata": "<img src=\"https://image.blockchain.news:443/features/8F7E16A9C4EB86FF419304DC0EFE1ED321060862FA459F7036BFED9018F8C829.jpg\" /><br />After slipping to lows of $15.5K amid FTX’s liquidity crunch, Bitcoin gained momentum based on positive consumer price index (CPI) numbers released by the U.S. Bureau of Labor Statistics.<a href=\"https://Blockchain.News/analysis/bitcoin-gains-momentum-based-on-positive-cpi-numbers\"> (Read More)</a>"
+                    },
+                    "link": {
+                        "_text": "https://Blockchain.News/analysis/bitcoin-gains-momentum-based-on-positive-cpi-numbers"
+                    },
+                    "guid": {
+                        "_attributes": {
+                            "isPermaLink": "false"
+                        },
+                        "_text": "https://Blockchain.News/analysis/bitcoin-gains-momentum-based-on-positive-cpi-numbers"
+                    },
+                    "category": [
+                        {
+                            "_attributes": {
+                                "domain": "https://Blockchain.News/"
+                            },
+                            "_text": "Bitcoin"
+                        },
+                        {
+                            "_text": "BITCOIN"
+                        },
+                        {
+                            "_text": "MARKET ANALYSIS"
+                        },
+                        {
+                            "_text": "CPI"
+                        },
+                        {
+                            "_text": "FTX"
+                        },
+                        {
+                            "_text": "BTC"
+                        },
+                        {
+                            "_text": "PRICE ACTION"
+                        },
+                        {
+                            "_text": "INVESTMENT"
+                        },
+                        {
+                            "_text": "CRYPTOCURRENCIES"
+                        },
+                        {
+                            "_text": "CRYPTO"
+                        }
+                    ],
+                    "media:thumbnail": {
+                        "_attributes": {
+                            "url": "https://image.blockchain.news:443/features/8F7E16A9C4EB86FF419304DC0EFE1ED321060862FA459F7036BFED9018F8C829.jpg"
+                        }
+                    },
+                    "media:content": {
+                        "_attributes": {
+                            "medium": "image",
+                            "url": "https://image.blockchain.news:443/features/8F7E16A9C4EB86FF419304DC0EFE1ED321060862FA459F7036BFED9018F8C829.jpg",
+                            "width": "1200",
+                            "height": "630"
+                        }
+                    },
+                    "pubDate": {
+                        "_text": "Fri, 11 Nov 2022 08:10:10 GMT"
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "Michael Saylor Believes Bitcoin is the Solution to the Lebanon's Financial Crisis"
+                    },
+                    "content:encoded": {},
+                    "description": {
+                        "_cdata": "<img src=\"https://image.blockchain.news:443/features/AFBF9614450181754F075E1FD6D42013BAECAF7F89EC95D99CBF62C7611AB5F5.jpg\" /><br />Bitcoin bull, Michael Saylor is optimistic BTC can solve Lebanon's economic and monetary woes<a href=\"https://Blockchain.News/news/michael-saylor-believes-bitcoin-is-the-solution-to-the-lebanons-financial-crisis\"> (Read More)</a>"
+                    },
+                    "link": {
+                        "_text": "https://Blockchain.News/news/michael-saylor-believes-bitcoin-is-the-solution-to-the-lebanons-financial-crisis"
+                    },
+                    "guid": {
+                        "_attributes": {
+                            "isPermaLink": "false"
+                        },
+                        "_text": "https://Blockchain.News/news/michael-saylor-believes-bitcoin-is-the-solution-to-the-lebanons-financial-crisis"
+                    },
+                    "category": [
+                        {
+                            "_attributes": {
+                                "domain": "https://Blockchain.News/"
+                            },
+                            "_text": "Bitcoin"
+                        },
+                        {
+                            "_text": "BITCOIN"
+                        },
+                        {
+                            "_text": "MICHAEL SAYLOR"
+                        },
+                        {
+                            "_text": "LEBANON"
+                        }
+                    ],
+                    "media:thumbnail": {
+                        "_attributes": {
+                            "url": "https://image.blockchain.news:443/features/AFBF9614450181754F075E1FD6D42013BAECAF7F89EC95D99CBF62C7611AB5F5.jpg"
+                        }
+                    },
+                    "media:content": {
+                        "_attributes": {
+                            "medium": "image",
+                            "url": "https://image.blockchain.news:443/features/AFBF9614450181754F075E1FD6D42013BAECAF7F89EC95D99CBF62C7611AB5F5.jpg",
+                            "width": "1200",
+                            "height": "630"
+                        }
+                    },
+                    "pubDate": {
+                        "_text": "Sun, 06 Nov 2022 16:30:54 GMT"
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "China Plays Top Crypto Whale, Followed By US: Sources"
+                    },
+                    "content:encoded": {},
+                    "description": {
+                        "_cdata": "<img src=\"https://image.blockchain.news:443/features/50E055A7BB3D927EB472FB2E2325EBC608B7982715CC6A6D439BCD1093F96134.jpg\" /><br />Despite its harsh stance on crypto, the China government could still be holding significant amounts of Bitcoins. <a href=\"https://Blockchain.News/news/china-plays-top-crypto-whale-followed-by-us-sources\"> (Read More)</a>"
+                    },
+                    "link": {
+                        "_text": "https://Blockchain.News/news/china-plays-top-crypto-whale-followed-by-us-sources"
+                    },
+                    "guid": {
+                        "_attributes": {
+                            "isPermaLink": "false"
+                        },
+                        "_text": "https://Blockchain.News/news/china-plays-top-crypto-whale-followed-by-us-sources"
+                    },
+                    "category": [
+                        {
+                            "_attributes": {
+                                "domain": "https://Blockchain.News/"
+                            },
+                            "_text": "Bitcoin"
+                        },
+                        {
+                            "_text": "CHINA"
+                        },
+                        {
+                            "_text": "US"
+                        },
+                        {
+                            "_text": "BITCOIN"
+                        },
+                        {
+                            "_text": "CRYPTO"
+                        },
+                        {
+                            "_text": "WHALES"
+                        }
+                    ],
+                    "media:thumbnail": {
+                        "_attributes": {
+                            "url": "https://image.blockchain.news:443/features/50E055A7BB3D927EB472FB2E2325EBC608B7982715CC6A6D439BCD1093F96134.jpg"
+                        }
+                    },
+                    "media:content": {
+                        "_attributes": {
+                            "medium": "image",
+                            "url": "https://image.blockchain.news:443/features/50E055A7BB3D927EB472FB2E2325EBC608B7982715CC6A6D439BCD1093F96134.jpg",
+                            "width": "1200",
+                            "height": "630"
+                        }
+                    },
+                    "pubDate": {
+                        "_text": "Thu, 03 Nov 2022 06:30:37 GMT"
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "South African Supermarket Chain Pick n Pay Starts Accepting Bitcoin Payments"
+                    },
+                    "content:encoded": {},
+                    "description": {
+                        "_cdata": "<img src=\"https://image.blockchain.news:443/features/D38CADA6AA99B08C06B98FDCE759D6C4FA7EC5C63AFB7843DFBEE43D9463468E.jpg\" /><br />The development of Pick n Pay means that South African shoppers can now purchase food and other goods online with Bitcoins.<a href=\"https://Blockchain.News/news/south-african-supermarket-chain-pick-n-pay-starts-accepting-bitcoin-payments\"> (Read More)</a>"
+                    },
+                    "link": {
+                        "_text": "https://Blockchain.News/news/south-african-supermarket-chain-pick-n-pay-starts-accepting-bitcoin-payments"
+                    },
+                    "guid": {
+                        "_attributes": {
+                            "isPermaLink": "false"
+                        },
+                        "_text": "https://Blockchain.News/news/south-african-supermarket-chain-pick-n-pay-starts-accepting-bitcoin-payments"
+                    },
+                    "category": [
+                        {
+                            "_attributes": {
+                                "domain": "https://Blockchain.News/"
+                            },
+                            "_text": "Bitcoin"
+                        },
+                        {
+                            "_text": "PICK N PAY"
+                        },
+                        {
+                            "_text": "SUPERMARKET"
+                        },
+                        {
+                            "_text": "SOUTH AFRICA"
+                        },
+                        {
+                            "_text": "BITCOIN"
+                        },
+                        {
+                            "_text": "PAYMENT"
+                        }
+                    ],
+                    "media:thumbnail": {
+                        "_attributes": {
+                            "url": "https://image.blockchain.news:443/features/D38CADA6AA99B08C06B98FDCE759D6C4FA7EC5C63AFB7843DFBEE43D9463468E.jpg"
+                        }
+                    },
+                    "media:content": {
+                        "_attributes": {
+                            "medium": "image",
+                            "url": "https://image.blockchain.news:443/features/D38CADA6AA99B08C06B98FDCE759D6C4FA7EC5C63AFB7843DFBEE43D9463468E.jpg",
+                            "width": "1200",
+                            "height": "630"
+                        }
+                    },
+                    "pubDate": {
+                        "_text": "Wed, 02 Nov 2022 02:25:53 GMT"
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "El Salvador's Government Refusing to Share Details on its BTC Stack - ALAC"
+                    },
+                    "content:encoded": {},
+                    "description": {
+                        "_cdata": "<img src=\"https://image.blockchain.news:443/features/BB40BB38FC42BF4D56BF1FD361FB48F1153A16D3574FCD28A4B9E2290E757DF6.jpg\" /><br />El Salvador's BANDESAL has denied the request for its Bitcoin information from ALAC\r\n\r\n<a href=\"https://Blockchain.News/news/el-salvadors-government-refusing-to-share-details-on-its-btc-stack-alac\"> (Read More)</a>"
+                    },
+                    "link": {
+                        "_text": "https://Blockchain.News/news/el-salvadors-government-refusing-to-share-details-on-its-btc-stack-alac"
+                    },
+                    "guid": {
+                        "_attributes": {
+                            "isPermaLink": "false"
+                        },
+                        "_text": "https://Blockchain.News/news/el-salvadors-government-refusing-to-share-details-on-its-btc-stack-alac"
+                    },
+                    "category": [
+                        {
+                            "_attributes": {
+                                "domain": "https://Blockchain.News/"
+                            },
+                            "_text": "Bitcoin"
+                        },
+                        {
+                            "_text": "EL SALVADOR"
+                        },
+                        {
+                            "_text": "ALAC"
+                        },
+                        {
+                            "_text": "BANDESAL"
+                        },
+                        {
+                            "_text": "BITCOIN"
+                        }
+                    ],
+                    "media:thumbnail": {
+                        "_attributes": {
+                            "url": "https://image.blockchain.news:443/features/BB40BB38FC42BF4D56BF1FD361FB48F1153A16D3574FCD28A4B9E2290E757DF6.jpg"
+                        }
+                    },
+                    "media:content": {
+                        "_attributes": {
+                            "medium": "image",
+                            "url": "https://image.blockchain.news:443/features/BB40BB38FC42BF4D56BF1FD361FB48F1153A16D3574FCD28A4B9E2290E757DF6.jpg",
+                            "width": "1200",
+                            "height": "630"
+                        }
+                    },
+                    "pubDate": {
+                        "_text": "Tue, 01 Nov 2022 20:04:36 GMT"
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "Is Bitcoin Gearing Up to Exit the Current Bottom?"
+                    },
+                    "content:encoded": {},
+                    "description": {
+                        "_cdata": "<img src=\"https://image.blockchain.news:443/features/B488EC0DE82D68717C1D20846D342B87504A123441A1DF49CF9816C4D0855249.jpg\" /><br />Since Bitcoin has been trading above the psychological price of $20K, Glassnode has released its weekly on-chain report titled “Hammering Out The Bottom,” scrutinizing the stakes and the risks that may lay on the road ahead.<a href=\"https://Blockchain.News/news/is-bitcoin-gearing-up-to-exit-the-current-bottom\"> (Read More)</a>"
+                    },
+                    "link": {
+                        "_text": "https://Blockchain.News/news/is-bitcoin-gearing-up-to-exit-the-current-bottom"
+                    },
+                    "guid": {
+                        "_attributes": {
+                            "isPermaLink": "false"
+                        },
+                        "_text": "https://Blockchain.News/news/is-bitcoin-gearing-up-to-exit-the-current-bottom"
+                    },
+                    "category": [
+                        {
+                            "_attributes": {
+                                "domain": "https://Blockchain.News/"
+                            },
+                            "_text": "Bitcoin"
+                        },
+                        {
+                            "_text": "BITCOIN"
+                        },
+                        {
+                            "_text": "MARKET"
+                        },
+                        {
+                            "_text": "ANALYSIS"
+                        },
+                        {
+                            "_text": "BTC"
+                        },
+                        {
+                            "_text": "GLASSNODE"
+                        },
+                        {
+                            "_text": "PRICE ACTION"
+                        },
+                        {
+                            "_text": "INVESTMENT"
+                        },
+                        {
+                            "_text": "CRYPTO"
+                        }
+                    ],
+                    "media:thumbnail": {
+                        "_attributes": {
+                            "url": "https://image.blockchain.news:443/features/B488EC0DE82D68717C1D20846D342B87504A123441A1DF49CF9816C4D0855249.jpg"
+                        }
+                    },
+                    "media:content": {
+                        "_attributes": {
+                            "medium": "image",
+                            "url": "https://image.blockchain.news:443/features/B488EC0DE82D68717C1D20846D342B87504A123441A1DF49CF9816C4D0855249.jpg",
+                            "width": "1200",
+                            "height": "630"
+                        }
+                    },
+                    "pubDate": {
+                        "_text": "Tue, 01 Nov 2022 08:10:21 GMT"
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "Brazilian City of Porto Alegre Formally Makes Room for Bitcoin Pizza Day"
+                    },
+                    "content:encoded": {},
+                    "description": {
+                        "_cdata": "<img src=\"https://image.blockchain.news:443/features/F72C37FC03669CB311E8CDA201D76C1B2D366D72DF62C0A678CB0DBBF9B444A8.jpg\" /><br />Brazil's City, Porto Alegre has created a public holiday for Bitcoin Pizza Day<a href=\"https://Blockchain.News/news/brazilian-city-of-porto-alegre-formally-makes-room-for-bitcoin-pizza-day\"> (Read More)</a>"
+                    },
+                    "link": {
+                        "_text": "https://Blockchain.News/news/brazilian-city-of-porto-alegre-formally-makes-room-for-bitcoin-pizza-day"
+                    },
+                    "guid": {
+                        "_attributes": {
+                            "isPermaLink": "false"
+                        },
+                        "_text": "https://Blockchain.News/news/brazilian-city-of-porto-alegre-formally-makes-room-for-bitcoin-pizza-day"
+                    },
+                    "category": [
+                        {
+                            "_attributes": {
+                                "domain": "https://Blockchain.News/"
+                            },
+                            "_text": "Bitcoin"
+                        },
+                        {
+                            "_text": "PORTO ALEGRE"
+                        },
+                        {
+                            "_text": "BITCOIN"
+                        },
+                        {
+                            "_text": "PIZZA DAY"
+                        }
+                    ],
+                    "media:thumbnail": {
+                        "_attributes": {
+                            "url": "https://image.blockchain.news:443/features/F72C37FC03669CB311E8CDA201D76C1B2D366D72DF62C0A678CB0DBBF9B444A8.jpg"
+                        }
+                    },
+                    "media:content": {
+                        "_attributes": {
+                            "medium": "image",
+                            "url": "https://image.blockchain.news:443/features/F72C37FC03669CB311E8CDA201D76C1B2D366D72DF62C0A678CB0DBBF9B444A8.jpg",
+                            "width": "1200",
+                            "height": "630"
+                        }
+                    },
+                    "pubDate": {
+                        "_text": "Sun, 30 Oct 2022 15:00:24 GMT"
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "Cash App Introduces Bitcoin Transactions via Lightning Network"
+                    },
+                    "content:encoded": {},
+                    "description": {
+                        "_cdata": "<img src=\"https://image.blockchain.news:443/features/641D604F293AD2B583BD01781C2795F78F92AA33DE80C67652A3758F7C2B9B80.jpg\" /><br />The payment processing app created by Block Inc, Cash App, has now accepted bitcoin transactions, enabling users to both send and receive Bitcoin via the lightning network.<a href=\"https://Blockchain.News/news/cash-app-introduces-bitcoin-transactions-via-lightning-network\"> (Read More)</a>"
+                    },
+                    "link": {
+                        "_text": "https://Blockchain.News/news/cash-app-introduces-bitcoin-transactions-via-lightning-network"
+                    },
+                    "guid": {
+                        "_attributes": {
+                            "isPermaLink": "false"
+                        },
+                        "_text": "https://Blockchain.News/news/cash-app-introduces-bitcoin-transactions-via-lightning-network"
+                    },
+                    "category": [
+                        {
+                            "_attributes": {
+                                "domain": "https://Blockchain.News/"
+                            },
+                            "_text": "Bitcoin"
+                        },
+                        {
+                            "_text": "BLOCKCHAIN"
+                        },
+                        {
+                            "_text": "BITCOIN"
+                        },
+                        {
+                            "_text": "CASH APP"
+                        },
+                        {
+                            "_text": "LIGHTNING NETWORK"
+                        },
+                        {
+                            "_text": "CRYPTOCURRENCY"
+                        }
+                    ],
+                    "media:thumbnail": {
+                        "_attributes": {
+                            "url": "https://image.blockchain.news:443/features/641D604F293AD2B583BD01781C2795F78F92AA33DE80C67652A3758F7C2B9B80.jpg"
+                        }
+                    },
+                    "media:content": {
+                        "_attributes": {
+                            "medium": "image",
+                            "url": "https://image.blockchain.news:443/features/641D604F293AD2B583BD01781C2795F78F92AA33DE80C67652A3758F7C2B9B80.jpg",
+                            "width": "1200",
+                            "height": "630"
+                        }
+                    },
+                    "pubDate": {
+                        "_text": "Wed, 26 Oct 2022 17:01:30 GMT"
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "Ark Invest's Wood Turned $100,000 Investment in Bitcoin to $7M"
+                    },
+                    "content:encoded": {},
+                    "description": {
+                        "_cdata": "<img src=\"https://image.blockchain.news:443/features/6BCC58D956EFD93A8B331C8CF5FE4CFC1B703B25A6A5315518405CF1E69DA1F6.jpg\" /><br />Cathie Wood said she currently owns over $7 million worth of bitcoin, which she purchased on the advice of Reagan-era economist Arthur Laffer, while it was trading at $250.<a href=\"https://Blockchain.News/news/ark-invest-ceo-wood-turned-100-000-investment-in-bitcoin-to-7m\"> (Read More)</a>"
+                    },
+                    "link": {
+                        "_text": "https://Blockchain.News/news/ark-invest-ceo-wood-turned-100-000-investment-in-bitcoin-to-7m"
+                    },
+                    "guid": {
+                        "_attributes": {
+                            "isPermaLink": "false"
+                        },
+                        "_text": "https://Blockchain.News/news/ark-invest-ceo-wood-turned-100-000-investment-in-bitcoin-to-7m"
+                    },
+                    "category": [
+                        {
+                            "_attributes": {
+                                "domain": "https://Blockchain.News/"
+                            },
+                            "_text": "Bitcoin"
+                        },
+                        {
+                            "_text": "BLOCKCHAIN"
+                        },
+                        {
+                            "_text": "BITCOIN"
+                        },
+                        {
+                            "_text": "ARKINVEST"
+                        },
+                        {
+                            "_text": "CRYPTO"
+                        },
+                        {
+                            "_text": "ARTHURLAFFER"
+                        }
+                    ],
+                    "media:thumbnail": {
+                        "_attributes": {
+                            "url": "https://image.blockchain.news:443/features/6BCC58D956EFD93A8B331C8CF5FE4CFC1B703B25A6A5315518405CF1E69DA1F6.jpg"
+                        }
+                    },
+                    "media:content": {
+                        "_attributes": {
+                            "medium": "image",
+                            "url": "https://image.blockchain.news:443/features/6BCC58D956EFD93A8B331C8CF5FE4CFC1B703B25A6A5315518405CF1E69DA1F6.jpg",
+                            "width": "1200",
+                            "height": "630"
+                        }
+                    },
+                    "pubDate": {
+                        "_text": "Tue, 25 Oct 2022 04:45:00 GMT"
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "BAC Strategists Say Bitcoin's Shifting Correlations May Indicate That It Is Regaining Popularity"
+                    },
+                    "content:encoded": {},
+                    "description": {
+                        "_cdata": "<img src=\"https://image.blockchain.news:443/features/E012EC5E65B65E7A7961085D6CDE1DDDAF491373EA8BB25D4BF68BA141FF2FBA.jpg\" /><br />Following months of crypto winter, BAC Strategists believe it may now be safe to stack Bitcoin again<a href=\"https://Blockchain.News/news/bac-strategists-say-bitcoins-shifting-correlations-may-indicate-that-it-is-regaining-popularity\"> (Read More)</a>"
+                    },
+                    "link": {
+                        "_text": "https://Blockchain.News/news/bac-strategists-say-bitcoins-shifting-correlations-may-indicate-that-it-is-regaining-popularity"
+                    },
+                    "guid": {
+                        "_attributes": {
+                            "isPermaLink": "false"
+                        },
+                        "_text": "https://Blockchain.News/news/bac-strategists-say-bitcoins-shifting-correlations-may-indicate-that-it-is-regaining-popularity"
+                    },
+                    "category": [
+                        {
+                            "_attributes": {
+                                "domain": "https://Blockchain.News/"
+                            },
+                            "_text": "Bitcoin"
+                        },
+                        {
+                            "_text": "BANK OF AMERICA CORP"
+                        },
+                        {
+                            "_text": "BITCOIN"
+                        },
+                        {
+                            "_text": "GOLD"
+                        }
+                    ],
+                    "media:thumbnail": {
+                        "_attributes": {
+                            "url": "https://image.blockchain.news:443/features/E012EC5E65B65E7A7961085D6CDE1DDDAF491373EA8BB25D4BF68BA141FF2FBA.jpg"
+                        }
+                    },
+                    "media:content": {
+                        "_attributes": {
+                            "medium": "image",
+                            "url": "https://image.blockchain.news:443/features/E012EC5E65B65E7A7961085D6CDE1DDDAF491373EA8BB25D4BF68BA141FF2FBA.jpg",
+                            "width": "1200",
+                            "height": "630"
+                        }
+                    },
+                    "pubDate": {
+                        "_text": "Sun, 23 Oct 2022 10:00:53 GMT"
+                    }
+                }
+            ]
+        }
+    }
+}
