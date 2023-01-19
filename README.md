@@ -1,6 +1,6 @@
 # News Commentary Tweeter Bot
 
-This is a tweeter bot that automatically gets the news from RSS feed and then generates commentary tweet about them and tweets them.
+This is a tweeter bot that automatically gets the news from an api and then generates commentary tweet about them and tweets them
 
 ## Requirements
 
