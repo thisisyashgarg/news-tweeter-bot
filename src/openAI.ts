@@ -42,7 +42,6 @@ export async function completionCall(prompt: string): Promise<string> {
     //destructuring data
     const { choices } = (await response.json()) as OpenAIResponse;
     const mainData = choices[0].text.trim();
-    console.log(mainData);
     return mainData;
   } catch (err) {
     if (err) {

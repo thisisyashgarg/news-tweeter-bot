@@ -13,10 +13,11 @@ const news = await getNewsFromRSS();
 
 // creating commentary for the news by passiing prompt into opanai
 export const tweet = await completionCall(
-  `Write a commentary tweet in 280 characters about the news : ${news} `
+  `Write a  tweet  commenting  on the news give below in 280 characters 
+  News: ${news} `
 );
 
-//calling the tweeter bot to tweet the news
+// calling the tweeter bot to tweet the news
 tweeterFunction();
 
 app.listen(port, () => {
