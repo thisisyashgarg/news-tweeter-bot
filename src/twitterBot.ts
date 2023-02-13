@@ -1,7 +1,6 @@
 import dotenv from "dotenv";
 dotenv.config();
 import twit from "twit";
-import { tweet } from "./index.js";
 
 //verifying credentials
 const credentials = new twit({
@@ -12,7 +11,7 @@ const credentials = new twit({
 });
 
 //Tweeter Function
-export const tweeterFunction = () => {
+export const tweeterFunction = (tweet: string) => {
   console.log("tweeterFunction called");
   //Checking errors
   const onExecution = (err, success) => {
