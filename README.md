@@ -11,7 +11,6 @@ This is a tweeter bot that automatically gets the news from an api and then gene
 - twit
 - openAI
 - xml-js
-- fetch
 
 ## Installation
 
@@ -49,7 +48,6 @@ Install the required libraries
 npm install twit
 npm install openai
 npm install xml-js
-npm install node-fetch
 ```
 
 ## Usage
